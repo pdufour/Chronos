@@ -1,4 +1,4 @@
-module github.com/amit-davidson/Chronos
+module github.com/pdufour/Chronos
 
 go 1.15
 
