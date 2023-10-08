@@ -1,7 +1,7 @@
 package domain
 
 import (
-	"github.com/amit-davidson/Chronos/ssaPureUtils"
+	"github.com/pdufour/Chronos/ssaPureUtils"
 	"go/token"
 	"golang.org/x/tools/go/ssa"
 )

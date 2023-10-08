@@ -2,7 +2,7 @@ package ssaUtils
 
 import (
 	"errors"
-	"github.com/amit-davidson/Chronos/utils/stacks"
+	"github.com/pdufour/Chronos/utils/stacks"
 	"go/types"
 	"golang.org/x/tools/go/ssa"
 	"os"

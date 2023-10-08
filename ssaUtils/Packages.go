@@ -3,7 +3,7 @@ package ssaUtils
 import (
 	"errors"
 	"fmt"
-	"github.com/amit-davidson/Chronos/domain"
+	"github.com/pdufour/Chronos/domain"
 	"go/token"
 	"go/types"
 	"golang.org/x/tools/go/loader"

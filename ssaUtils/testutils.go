@@ -6,8 +6,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/amit-davidson/Chronos/domain"
-	"github.com/amit-davidson/Chronos/utils"
+	"github.com/pdufour/Chronos/domain"
+	"github.com/pdufour/Chronos/utils"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/tools/go/ssa"
 )

@@ -1,6 +1,6 @@
 package domain
 
-import "github.com/amit-davidson/Chronos/utils/stacks"
+import "github.com/pdufour/Chronos/utils/stacks"
 
 type BlockState struct {
 	GuardedAccesses   []*GuardedAccess

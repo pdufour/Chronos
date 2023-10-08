@@ -8,7 +8,7 @@
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![amit-davidson](https://circleci.com/gh/amit-davidson/Chronos.svg?style=svg)](https://app.circleci.com/pipelines/github/amit-davidson/Chronos)
+[![amit-davidson](https://circleci.com/gh/pdufour/Chronos.svg?style=svg)](https://app.circleci.com/pipelines/github/pdufour/Chronos)
 
 Chronos is a static race detector for the Go language written in Go.
 
@@ -17,7 +17,7 @@ Chronos is a static race detector for the Go language written in Go.
 Download the package
 
 ```
-go get -v github.com/amit-davidson/Chronos/cmd/chronos
+go get -v github.com/pdufour/Chronos/cmd/chronos
 ```
 
 Pass the entry point

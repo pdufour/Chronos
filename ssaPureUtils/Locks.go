@@ -1,7 +1,7 @@
 package ssaPureUtils
 
 import (
-	"github.com/amit-davidson/Chronos/utils"
+	"github.com/pdufour/Chronos/utils"
 	"golang.org/x/tools/go/ssa"
 )
 

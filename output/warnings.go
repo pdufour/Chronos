@@ -2,10 +2,10 @@ package output
 
 import (
 	"fmt"
-	"github.com/amit-davidson/Chronos/domain"
-	"github.com/amit-davidson/Chronos/pointerAnalysis"
-	"github.com/amit-davidson/Chronos/ssaUtils"
-	"github.com/amit-davidson/Chronos/utils"
+	"github.com/pdufour/Chronos/domain"
+	"github.com/pdufour/Chronos/pointerAnalysis"
+	"github.com/pdufour/Chronos/ssaUtils"
+	"github.com/pdufour/Chronos/utils"
 	"golang.org/x/tools/go/ssa"
 	"strings"
 	"unicode"

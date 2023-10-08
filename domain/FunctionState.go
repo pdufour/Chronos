@@ -1,8 +1,8 @@
 package domain
 
 import (
-	"github.com/amit-davidson/Chronos/utils"
-	"github.com/amit-davidson/Chronos/utils/stacks"
+	"github.com/pdufour/Chronos/utils"
+	"github.com/pdufour/Chronos/utils/stacks"
 )
 
 var GoroutineCounter *utils.Counter
